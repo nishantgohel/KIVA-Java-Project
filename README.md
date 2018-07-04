@@ -9,6 +9,9 @@ Role based logins were created and work areas were assigned for each role.
 Technologies used:
 
 Java
+
 SwingUI components using NetBeans
+
 JFreeChart
+
 DB4OUtil
